@@ -1,0 +1,13 @@
+# Turmex-AdvPhishing
+1 Command:- trrmux-setup-storage
+2 Command:- termux-setup-storage 
+3 Command:- pkg install git    Asked you question (y/n)    Your answer:- y 
+4 Command:- gitclonhttps://github.com/sufikhan/AdvPhishing.git 
+5 command:- ls 
+6 command:- cd AdvPhishing 
+7 command:- cd AdvPhishing 
+8 command:- ls 
+9 command:- chmod 777 start.sh 
+10 command:- ./start.sh Asked you question (y/n)    Your answer:- y 
+11command:-./ngrok outhtoken IcrXjFSONnqDYhEpaoLDCzPnJnD_4eje4XUjCR4A3BpkB2u64 
+12 command:- ls 13 command:- ./An-AdvPhishing.sh Off wifi &amp; on mobaile data &amp; hosport Asked you question (y/n)    Your answer:- 
